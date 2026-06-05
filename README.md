@@ -1,6 +1,6 @@
 # Dual-Attention RegNet for Wheat Disease Recognition
 
->官方 PyTorch 实现 | 论文处于投刊阶段，标题：《Dual-Attention RegNet for Wheat Disease Recognition》
+>官方 PyTorch 实现 | 论文处于已录用阶段，标题：《Dual-Attention RegNet for Wheat Disease Recognition》
 
 >提出基于改进 RegNet 架构，融合可变形注意力（DAT）与图注意力（GAT）的小麦叶片病害识别模型，实现健康、叶锈病、白粉病、壳针孢叶枯病的高精度分类，辅助智慧农业中的精准植保。
 
